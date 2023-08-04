@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Favorite Thing about being a developer:
-The opportunity to work on an so many different projects in many different areas. It gives me the opporutunity to continue to learn about whatever I want to by providing a hands on experience building something.
+## Why I'm a Developer:
+It gives me the opporutunity to continue to learn about whatever I want to by providing a hands on experience building something. There are so many opportunities to build cool things in pretty much every domain. I don't have nearly enough time to go learn about all the things I want to learn, let alone actually build soemthing cool with that new knowledge.
 
 ## What I'm Currently Working On:
 Well, there's a few projects in the works right now.
