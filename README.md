@@ -20,6 +20,9 @@ Cybersecurity - Beyond being super important, it's incredibly fascinating. I'm c
 
 Fly Fishing - Not gonna lie, I'm really bad at it, but I really enjoy it (I am more than open to any tips!)
 
+## Reach Out
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/daniel-ballif)
+
 <!--
 **dballif/dballif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
