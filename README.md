@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ## Why I'm a Developer:
-It gives me the opporutunity to continue to learn about whatever I want to by providing a hands on experience building something. There are so many opportunities to build cool things in pretty much every domain. I don't have nearly enough time to go learn about all the things I want to learn, let alone actually build soemthing cool with that new knowledge.
+It gives me the opporutunity to continue to learn about whatever I want to by providing a hands on experience building something. There are so many opportunities to build cool things in pretty much every domain. I don't have nearly enough time to go learn about all the things I want to learn, let alone actually build cool things with that new knowledge.
 
 ## What I'm Currently Working On:
 Well, there's a few projects in the works right now.
 
-I'm currently working on 3D printing and building out a remote controlled rover. After an initial build, the plan is to program some brains for it that will allow for autonomous driving and data collection.
+I've been playing with stable diffusion to generate images based off prompts and datasets and I decided to build a storyboard tool that uses a webUI to input details for the various frames of the storyboard. The backend will run a local python instance that uses Stable Diffusion to generate images for each frame.
+
+I'm also currently working on 3D printing and building out a remote controlled rover. After an initial build, the plan is to program some brains for it that will allow for autonomous driving and data collection.
 
 Another project, that's kind of on the backburner for the moment, is a environment monitoring system for a beehive that uses MQTT to send data to a remote database. 
 
@@ -14,6 +16,9 @@ Another project, that's kind of on the backburner for the moment, is a environme
 I'm currently studying for the CompTIA Security+ Certification. My goal is taking the test by the end of August 2023. Feel free to ask me how it's going.
 
 I've also just started learning Solidity, becuase web3 is something I don't know a ton about yet, but it seems like there are going to be some reallhy cool opporutunities there.
+
+## Completed Projects
+In an effort to learn some basic Kotlin, I created an Android app called PhasmoChallenges. You can find it on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.dballif.dev.phasmochallenges). It's purpose was to provide an extra experience to playing Phasmophobia by providing randomized "challenges" to try and complete. It's pretty outdated at this point due to the many updates of the game play.
 
 ## Other Interests
 Cybersecurity - Beyond being super important, it's incredibly fascinating. I'm currently reading "This is How They Tell Me the World Ends" by Nicole Perlroth. Fascinating. And a little concerning.
