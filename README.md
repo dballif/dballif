@@ -18,6 +18,7 @@ I'm currently studying for the CompTIA Security+ Certification. My goal is takin
 I've also just started learning Solidity, becuase web3 is something I don't know a ton about yet, but it seems like there are going to be some reallhy cool opporutunities there.
 
 ## Completed Projects
+### PhasmoChallenges
 In an effort to learn some basic Kotlin, I created an Android app called PhasmoChallenges. You can find it on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.dballif.dev.phasmochallenges). It's purpose was to provide an extra experience to playing Phasmophobia by providing randomized "challenges" to try and complete. It's pretty outdated at this point due to the many updates of the game play.
 
 ## Other Interests
