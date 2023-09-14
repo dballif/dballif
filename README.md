@@ -6,8 +6,6 @@ It gives me the opporutunity to continue to learn about whatever I want to by pr
 ## What I'm Currently Working On:
 Well, there's a few projects in the works right now.
 
-I've been playing with stable diffusion to generate images based off prompts and datasets and I decided to build a storyboard tool that uses a webUI to input details for the various frames of the storyboard. The backend will run a local python instance that uses Stable Diffusion to generate images for each frame.
-
 I'm also currently working on 3D printing and building out a remote controlled rover. After an initial build, the plan is to program some brains for it that will allow for autonomous driving and data collection.
 
 Another project, that's kind of on the backburner for the moment, is a environment monitoring system for a beehive that uses MQTT to send data to a remote database. 
@@ -17,7 +15,10 @@ I'm currently studying for the CompTIA Security+ Certification. My goal is takin
 
 I've also just started learning Solidity, becuase web3 is something I don't know a ton about yet, but it seems like there are going to be some reallhy cool opporutunities there.
 
-## Completed Projects
+## Completed Projects (At least for now)
+### [Generative AI StoryBoard](https://github.com/dballif/StoryBoard)
+I've been playing with stable diffusion to generate images based off prompts and datasets and I decided to build a storyboard tool that uses a webUI to input details for the various frames of the storyboard. The backend runs a local python instance that uses Stable Diffusion to generate images for each frame. The image generation will default to using a CUDA compatible GPU if available but otherwise it will just use the CPU. Note: This project probably still needs some serious "prompt engineering" to produce images that make more sense for this context (Please, feel free to contribute).
+
 ### PhasmoChallenges
 In an effort to learn some basic Kotlin, I created an Android app called PhasmoChallenges. You can find it on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.dballif.dev.phasmochallenges). It's purpose was to provide an extra experience to playing Phasmophobia by providing randomized "challenges" to try and complete. It's pretty outdated at this point due to the many updates of the game play.
 
